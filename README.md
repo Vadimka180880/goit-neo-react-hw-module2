@@ -1,8 +1,15 @@
-# React + Vite
+# React + Vite Homework (Module 2)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is part of the GoIT React homework for Module 2. It demonstrates the use of **state and forms** in React, built with Vite.
 
-Currently, two official plugins are available:
+## Repository
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The repository for this project can be found [here](https://github.com/Vadimka180880/goit-neo-react-hw-module2).
+
+## Tasks
+1. **Завдання**:  Віджет відгуків
+
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Vadimka180880/goit-neo-react-hw-module2.git
