@@ -3,3 +3,12 @@
     font-style: italic;
   }
   
+  
+  .options {
+    display: flex;
+    gap: 5px;
+  }
+  
+  button:last-child {
+    margin-left: 20px; 
+  }
